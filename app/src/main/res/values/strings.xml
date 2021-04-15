@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerScanner</string>
+    <string name="barcodeText">Looking for a barcode</string>
+    <string name="cancelButtonText">CANCEL</string>
+    <string name="scanButtonText">SCAN</string>
+    <string name="quitButtonText">QUIT</string>
+</resources>
